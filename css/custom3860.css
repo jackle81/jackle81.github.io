@@ -15,8 +15,9 @@
 }
 
 .videoBG {
-	width: 110%; 
+	width: 102%; 
 	height: auto;
+	object-fit: fill;
 	z-index: inherit;
 	float: right;
 }
